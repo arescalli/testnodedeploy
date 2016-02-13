@@ -11,5 +11,9 @@
     "type": "git",
     "url": "https://github.com/arescalli/testnodedeploy.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {    
+    "shipit-cli": "^1.4.1",
+    "shipit-deploy": "^2.1.3"
+  }
 }
